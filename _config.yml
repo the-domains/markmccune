@@ -1,0 +1,28 @@
+name: markmccune
+favicon: null
+layout_spectrum: 0.6319630369544029
+typography_spectrum: 0.8618621192872524
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.7050437945872545
+  lightness: 0.2964145594742149
+  saturation: 0.34992890106514096
+  rhythmicContrast: 0.07123319176025689
+purpose: []
